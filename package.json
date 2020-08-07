@@ -1,0 +1,26 @@
+{
+  "name": "nss-iitp2.github.io",
+  "version": "1.0.0",
+  "description": "IIT Tirupati NSS Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kowndinya2000/nss-iitp2.github.io.git"
+  },
+  "author": "IIT Tirupati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kowndinya2000/nss-iitp2.github.io/issues"
+  },
+  "homepage": "https://github.com/Kowndinya2000/nss-iitp2.github.io#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.10",
+    "express-session": "^1.17.1"
+  }
+}
