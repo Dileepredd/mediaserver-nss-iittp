@@ -1,4 +1,4 @@
-## nss-iitp-mediaserver.github.io
+## mediaserver-nss-iitp.github.io
 
 ### How to run ?
 ```
